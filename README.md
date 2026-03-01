@@ -13,8 +13,7 @@
 - Web : https://republicai.io
 - X : https://x.com/republicfdn
 
-- Web : https://rpcdot.com
-- X : https://x.com/rpcdot
+- X : https://x.com/dogiladeveloper
 
 ## 1. Server Güncelleme : 
 
